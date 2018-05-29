@@ -27,6 +27,11 @@ li {
     float: right;
 }
 
+
+#space{
+  margin-top: 50px;
+}
+
 li a {
     display: block;
     color: #777777;
@@ -39,7 +44,7 @@ li a {
 	float: left;
     color: white;
     text-align: center;
-    padding: 20px 40px 20px 40px;
+    padding: 15px 20px 20px 20px;
     text-decoration: none;
     list-style-type: none;
     margin-left: 0px;
@@ -52,22 +57,25 @@ li a {
     margin: auto;
     margin-top: 30px;
     margin-bottom: 0px;
-    width: 960px;
-    padding: 25px;
-    height: 100%
+    width: 980px;
+    padding-top: 25px;
+    padding-bottom: 115px;
+    padding-left: 25px;
+    padding-right: 25px;
+    
 
 }
 
 #cnav{
    margin: 0 auto;
-    width: 960px;
+    width: 980px;
     padding: 0px; 
 }
 
 #port,
 #float{
     float: left;
-    margin-right: 20px;
+    margin-right: 17px;
 }
 
 #wHead{
@@ -78,6 +86,16 @@ li a {
 
 p{
     line-height: 1.6;
+    width: 100%;
+
+}
+
+.square {
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: : 60px;
 }
 
 h1{
@@ -139,3 +157,48 @@ textarea {
 #small{
     width: 700px;
 }
+
+@media screen and (max-width: 980px) {
+  /* The body's bg color will be #333 */
+  #logo{
+  float: left;
+  }
+
+  /* The wrapper's width will be 600px */
+  p, #cnav, #wbg{
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  /* The body's bg color will be #333 */
+  #logo{
+  float: left;
+  }
+
+  /* The wrapper's width will be 600px */
+  p, #cnav, #wbg{
+    width: 100%;
+
+  }
+}
+
+@media screen and (max-width: 640px) {
+  /* The body's bg color will be #333 */
+  #logo{
+  float: left;
+  }
+
+  /* The wrapper's width will be 600px */
+  p, #cnav, #wbg, #port{
+    width: 100%;
+    float: left;
+  }
+
+  .square{
+    width: 350px;
+    height: 350px;
+  }
+
+
+  }
