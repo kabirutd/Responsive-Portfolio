@@ -5,3 +5,4 @@ Get the footer to stay on the bottom.
 Just get a new layout all together.
 Get the portfolio connected to FrankUzoka.com
 Do some reacearch on current portfolio looks.
+Should have some cool art.
