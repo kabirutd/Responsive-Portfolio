@@ -25,3 +25,4 @@ Mysql
 GitHub
 Git
 Heroku
+AJAX
