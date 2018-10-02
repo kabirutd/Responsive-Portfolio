@@ -32,3 +32,4 @@ CSS
 Javascript
 Jquery
 Bootstrap
+SEO
