@@ -10,3 +10,4 @@ Add projects.
 Made it look nice.
 maybe make videosc
 Laravel
+Sequelize
