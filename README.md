@@ -30,3 +30,4 @@ JSON
 HTML
 CSS
 Javascript
+Jquery
