@@ -12,3 +12,4 @@ maybe make videosc
 Laravel
 Sequelize
 User Authentication
+MVC
