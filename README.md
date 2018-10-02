@@ -9,3 +9,4 @@ Should have some cool art.
 Add projects.
 Made it look nice.
 maybe make videosc
+Laravel
