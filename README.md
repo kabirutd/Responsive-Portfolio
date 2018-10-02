@@ -11,3 +11,4 @@ Made it look nice.
 maybe make videosc
 Laravel
 Sequelize
+User Authentication
